@@ -7,3 +7,11 @@
   justify-content: center;
   width: 100vw;
 }
+
+.box-layout__picture {
+  background: url('/images/brian.jpg');
+  background-size: cover;
+  height: 30vh;
+  width: 30vw;
+  border-radius: 5%;
+}
