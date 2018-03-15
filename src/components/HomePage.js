@@ -2,8 +2,12 @@ import React from 'react';
 
 const HomePage = () => (
   <div className="box-layout">
-      <h1>Welcome</h1>
-      <p>This is my site</p>
+  <div className="box-layout__picture" >
+  </div>
+    <div>
+    <h1>Hey There!</h1>
+    <p>Thanks for visiting my site.  I am a software developer</p>
+    </div>
   </div>
 );
 
