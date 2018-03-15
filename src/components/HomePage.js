@@ -1,7 +1,11 @@
 import React from 'react';
+import Header from '../components/Header';
 
 const HomePage = () => (
   <div className="box-layout">
+  <div className="header__content">
+  <Header />
+  </div>
   <div className="box-layout__picture" >
   </div>
     <div>
